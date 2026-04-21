@@ -26,7 +26,7 @@ Community_recovery_drought_TD-BU/
 │   └── 02_FULLanalyses.R                 # Main statistical analyses and figures
 │
 ├── data/
-│   ├── raw/
+│   ├── raw_env/
 │   │   ├── Multiparameter_2022_JG.ods    # Raw physicochemical measurements 2022
 │   │   ├── Multiparameter_2023_JG.ods    # Raw physicochemical measurements 2023
 │   │   └── Samples_info_Planaqua.csv     # Sample metadata
