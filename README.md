@@ -26,20 +26,18 @@ Community_recovery_drought_TD-BU/
 │   └── 02_FULLanalyses.R                 # Main statistical analyses and figures
 │
 ├── data/
-│   ├── raw_env/
-│   │   ├── Multiparameter_2022_JG.ods    # Raw physicochemical measurements 2022
-│   │   ├── Multiparameter_2023_JG.ods    # Raw physicochemical measurements 2023
-│   │   └── Samples_info_Planaqua.csv     # Sample metadata
-│   │
-│   └── processed/
-│       ├── samples_with_environmental_data.csv   # Output of 01_Formatting_env_data.R
-│       ├── Family_metadata_pred_nutr.csv         # Family-level eDNA data with treatment info
-│       ├── beta.pair_dataset.csv                 # Pairwise beta-diversity dataset
-│       ├── BetaPair_deltat_consecutive.csv       # Consecutive timepoint beta-diversity
-│       ├── sample_mapping_names.csv              # Sample name mapping
-│       └── sample_names.csv                      # Sample names
-│
-└── figures/                              # Output directory for generated figures
+    ├── raw_env/
+    │   ├── Multiparameter_2022_JG.ods    # Raw physicochemical measurements 2022
+    │   ├── Multiparameter_2023_JG.ods    # Raw physicochemical measurements 2023
+    │   └── Samples_info_Planaqua.csv     # Sample metadata
+    │
+    └── processed/
+        ├── samples_with_environmental_data.csv   # Output of 01_Formatting_env_data.R
+        ├── Family_metadata_pred_nutr.csv         # Family-level eDNA data with treatment info
+        ├── beta.pair_dataset.csv                 # Pairwise beta-diversity dataset
+        ├── BetaPair_deltat_consecutive.csv       # Consecutive timepoint beta-diversity
+        ├── sample_mapping_names.csv              # Sample name mapping
+        └── sample_names.csv                      # Sample names
 ```
 
 ---
